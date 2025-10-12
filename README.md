@@ -13,7 +13,7 @@ Textbooks and multiscale solvers move smoothly from “quarks to cosmos,” yet 
 We postulate a dyadic hierarchy, *Nature’s Binary Ladder*, anchored at the Planck length
 $$\ell_P = 1.616 \times 10^{-35},\mathrm{m}.$$
 *Major ticks* occur every $$2^{16}=65{,}536$$ in linear size; a *connector tick* sits one byte ($$2^{8}=256$$) above each major.
-Iterating this rule yields 27 rungs: 14 majors that demand new state variables (quantum foam (\rightarrow) nucleons (\rightarrow) atoms (\rightarrow) cells (\dots) to the cosmological horizon) and 13 connectors that bundle lower-tier units into the next rung.
+Iterating this rule yields 27 rungs: 14 majors that demand new state variables (quantum foam $$\rightarrow$$ nucleons $$\rightarrow$$ atoms $$\rightarrow$$ cells $$\dots$$ to the cosmological horizon) and 13 connectors that bundle lower-tier units into the next rung.
 
 **Key findings.**
 The ladder compresses ~64 orders of magnitude into a two-resolution scaffold in which
