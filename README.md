@@ -525,53 +525,73 @@ If future evidence continues to support it, the $2^{16}/2^{8}$ staircase may evo
 
 ## References
 
-* **Griffiths, D. J., & Schroeter, D.** (2018). *Introduction to Elementary Particles* (3rd ed.). Cambridge University Press.
 
-* **Zyla, P. A., et al.** (2020). *Review of Particle Physics.* *Progress of Theoretical and Experimental Physics*, **2020**(8), 083C01. (Particle Data Group)
+1. Griffiths, D. J., & Schroeter, D. (2018). *Introduction to Elementary Particles* (3rd ed.). Cambridge University Press.
 
-* **Smolin, L.** (2001). *Three Roads to Quantum Gravity.* Basic Books.
+2. Zyla, P. A., et al. (2020). Review of Particle Physics. *Progress of Theoretical and Experimental Physics, 2020*(8), 083C01.
+   DOI: 10.1093/ptep/ptaa104
 
-* **Rovelli, C.** (2004). *Quantum Gravity.* Cambridge University Press.
+3. Smolin, L. (2001). *Three Roads to Quantum Gravity*. Basic Books.
 
-* **Boeke, K.** (1957). *Cosmic View: The Universe in Forty Jumps.* John Day.
+4. Rovelli, C. (2004). *Quantum Gravity*. Cambridge University Press.
 
-* **Eames, C., & Eames, R.** (1977). *Powers of Ten* [Film]. Eames Office / IBM.
+5. Boeke, K. (1957). *Cosmic View: The Universe in Forty Jumps*. John Day.
 
-* **Christian, D.** (2018). *Origin Story: A Big History of Everything.* Little, Brown.
+6. Eames, C., & Eames, R. (1977). *Powers of Ten* [Film]. Eames Office / IBM.
 
-* **Kadanoff, L. P.** (1966). Scaling Laws for Ising Models Near $T_c$. *Physics*, **2**, 263–272.
+7. Christian, D. (2018). *Origin Story: A Big History of Everything*. Little, Brown.
 
-* **Wilson, K. G., & Kogut, J.** (1974). The Renormalization Group and the $\varepsilon$-Expansion. *Physics Reports*, **12**(2), 75–200. [https://doi.org/10.1016/0370-1573(74)90023-4](https://doi.org/10.1016/0370-1573%2874%2990023-4)
+8. Kadanoff, L. P. (1966). Scaling laws for Ising models near (T_c). *Journal of Statistical Physics*, **2**, 263–272.
 
-* **Jayaprakash, C., Katzav, E., & Procaccia, I.** (1995). Hierarchical Models and Finite Renormalizations. *Physical Review Letters*, **75**(2), 201–204. [https://doi.org/10.1103/PhysRevLett.75.201](https://doi.org/10.1103/PhysRevLett.75.201)
+9. Wilson, K. G., & Kogut, J. (1974). The renormalization group and the (\varepsilon)-expansion. *Physics Reports, 12*(2), 75–200.
+   DOI: 10.1016/0370-1573(74)90023-4
 
-* **Anderson, P. W.** (1972). More Is Different. *Science*, **177**(4047), 393–396. [https://doi.org/10.1126/science.177.4047.393](https://doi.org/10.1126/science.177.4047.393)
+10. Pordt, A. (1992). Renormalization Theory for Hierarchical Models. Université de Lausanne, Institut de Physique Théorique. Preprint FPRINT-92-13.
+Available at: https://cds.cern.ch/record/265025
 
-* **Rosen, S.** (2020). Hierarchy and Scale in Complex Systems. *Complexity*, Article ID 2954351.
+11. Anderson, P. W. (1972). More is different. *Science, 177*(4047), 393–396.
+    DOI: 10.1126/science.177.4047
 
-* **Sornette, D.** (1998). Discrete-Scale Invariance and Complex Dimensions. *Physics Reports*, **297**(5), 239–270.
+12. Rosen, R. (1985). *Anticipatory Systems: Philosophical, Mathematical, and Methodological Foundations*. Pergamon Press.
 
-* **Karplus, M., & McCammon, J. A.** (2002). Molecular Dynamics Simulations of Biomolecules. *Nature Structural Biology*, **9**, 646–652.
+13. Sornette, D. (1998). Discrete-scale invariance and complex dimensions. *Physics Reports, 297*(5), 239–270.
+    DOI: 10.1016/S0370-1573(97)00076-8
 
-* **McKee, C. F., & Ostriker, E. C.** (2007). Theory of Star Formation. *Annual Review of Astronomy and Astrophysics*, **45**, 565–687. [https://doi.org/10.1146/annurev.astro.45.051806.110602](https://doi.org/10.1146/annurev.astro.45.051806.110602)
+14. Karplus, M., & McCammon, J. A. (2002). Molecular dynamics simulations of biomolecules. *Nature Structural Biology, 9*, 646–652.
+    DOI: 10.1038/nsb0902-646
 
-* **E, W.** (2011). *Principles of Multiscale Modeling.* Cambridge University Press.
+15. McKee, C. F., & Ostriker, E. C. (2007). Theory of star formation. *Annual Review of Astronomy and Astrophysics, 45*, 565–687.
+    DOI: 10.1146/annurev.astro.45.051806.110602
 
-* **Tegmark, M.** (2008). The Mathematical Universe. *Foundations of Physics*, **38**(2), 101–150. [https://doi.org/10.1007/s10701-007-9186-9](https://doi.org/10.1007/s10701-007-9186-9)
+16. E, W. (Weinan E). (2011). *Principles of Multiscale Modeling*. Cambridge University Press.
 
-* **Tononi, G.** (2016). Integrated Information Theory. *Scholarpedia*, **11**(1), 4160. [https://doi.org/10.4249/scholarpedia.4160](https://doi.org/10.4249/scholarpedia.4160)
+17. Tegmark, M. (2008). The mathematical universe. *Foundations of Physics, 38*(2), 101–150.
+    DOI: 10.1007/s10701-007-9186-9
 
-* **Gell-Mann, M.** (1994). *The Quark and the Jaguar: Adventures in the Simple and the Complex.* W. H. Freeman.
+18. Tononi, G. (2016). Integrated information theory. *Scholarpedia, 11*(1), 4160.
+    DOI: 10.4249/scholarpedia.4160
 
-* **Lloyd, S.** (2006). *Programming the Universe: A Quantum Computer Scientist Takes on the Cosmos.* Knopf.
+19. Gell-Mann, M. (1994). *The Quark and the Jaguar: Adventures in the Simple and the Complex*. W. H. Freeman.
 
-* **Freeman, W. T., & Adelson, E. H.** (1991). The Design and Use of Steerable Filters. *IEEE Transactions on Pattern Analysis and Machine Intelligence*, **13**(9), 891–906. [https://doi.org/10.1109/34.93808](https://doi.org/10.1109/34.93808)
+20. Lloyd, S. (2006). *Programming the Universe: A Quantum Computer Scientist Takes on the Cosmos*. Knopf.
 
-* **Song, C., Havlin, S., & Makse, H. A.** (2005). Self-Similarity of Complex Networks. *Nature*, **433**(7024), 392–395. [https://doi.org/10.1038/nature03248](https://doi.org/10.1038/nature03248)
+21. Freeman, W. T., & Adelson, E. H. (1991). The design and use of steerable filters. *IEEE Transactions on Pattern Analysis and Machine Intelligence, 13*(9), 891–906.
+    DOI: 10.1109/34.93808
 
-* **Mehta, P., & Schwab, D. J.** (2014). *An Exact Mapping Between the Variational Renormalization Group and Deep Learning.* arXiv:1410.3831. [https://arxiv.org/abs/1410.3831](https://arxiv.org/abs/1410.3831)
+22. Song, C., Havlin, S., & Makse, H. A. (2005). Self-similarity of complex networks. *Nature, 433*(7024), 392–395.
+    DOI: 10.1038/nature03248
 
-* **Bengio, Y., Courville, A., & Vincent, P.** (2013). Representation Learning: A Review and New Perspectives. *IEEE Transactions on Pattern Analysis and Machine Intelligence*, **35**(8), 1798–1828. [https://doi.org/10.1109/TPAMI.2013.50](https://doi.org/10.1109/TPAMI.2013.50)
+23. Mehta, P., & Schwab, D. J. (2014). An exact mapping between the variational renormalization group and deep learning. *arXiv preprint* arXiv:1410.3831.
+    URL: [https://arxiv.org/abs/1410.3831](https://arxiv.org/abs/1410.3831)
 
-* **Wagner, A.** (2005). *Robustness and Evolvability in Living Systems.* Princeton University Press.
+24. Bengio, Y., Courville, A., & Vincent, P. (2013). Representation learning: A review and new perspectives. *IEEE Transactions on Pattern Analysis and Machine Intelligence, 35*(8), 1798–1828.
+    DOI: 10.1109/TPAMI.2013.50
+
+25. Wagner, A. (2005). *Robustness and Evolvability in Living Systems*. Princeton University Press.
+
+26. Israeli, N., & Goldenfeld, N. (2005). Coarse-graining of cellular automata, emergence, and the predictability of complex systems. *arXiv preprint* nlin/0508033.
+    URL: [https://arxiv.org/abs/nlin/0508033](https://arxiv.org/abs/nlin/0508033)
+
+27. Jansma, A., & Hoel, E. (2025). Engineering Emergence. *arXiv preprint* arXiv:2510.02649.
+    URL: [https://arxiv.org/abs/2510.02649](https://arxiv.org/abs/2510.02649)
 
