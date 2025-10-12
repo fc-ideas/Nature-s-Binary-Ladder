@@ -466,6 +466,11 @@ Its recurrence across disparate domains suggests these intervals are not mere pe
 
 
 ---
+### Why Nature Quantises Length, Not Volume
+
+Empirical thresholds in physics and biology align far more cleanly when scale is measured linearly rather than volumetrically. The reason is that **governing laws and regime changes are expressed through characteristic lengths**, not volumes: mean free paths, coherence lengths, diffusion lengths, and correlation lengths all enter the control numbers that define new behaviour. Dimensionless quantities such as the Reynolds, Knudsen, and Jeans parameters flip regime when a *single power* of length crosses a critical ratio, not when cubic volume doubles. Boundaries and interfaces—membranes, orbitals, shells, horizons—dominate the transitions, and these are inherently one-dimensional in their defining metric. As a result, successive emergent layers in nature (from nucleons to atoms to cells to ecosystems to galaxies) fall close to a constant stride in **logarithmic length**, while a volumetric ladder stretches or compresses these transitions irregularly. Nature’s hierarchy, it seems, **quantises extension**, not bulk.
+
+---
 
 ## Conclusions and Future Work
 
