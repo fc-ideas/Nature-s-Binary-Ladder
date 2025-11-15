@@ -1,4 +1,4 @@
-# Nature’s Binary Ladder: Quantized Scale Transitions across 64 Orders of Magnitude
+# Nature’s Binary Ladder: Quantized Scale Transitions across 63 Orders of Magnitude
 
 **Fabrizio Costa** | October 2025
 
@@ -11,12 +11,12 @@ Textbooks and multiscale solvers move smoothly from “quarks to cosmos,” yet 
 
 **Approach.**
 We postulate a dyadic hierarchy, *Nature’s Binary Ladder*, anchored at the Planck length
-$$\ell_P = 1.616 \times 10^{-35},\mathrm{m}.$$
+$$\ell_P = 1.616 \times 10^{-35}\,\mathrm{m}.$$
 *Major ticks* occur every $$2^{16}=65{,}536$$ in linear size; a *connector tick* sits one byte ($$2^{8}=256$$) above each major.
 Iterating this rule yields 27 rungs: 14 majors that demand new state variables (quantum foam $$\rightarrow$$ nucleons $$\rightarrow$$ atoms $$\rightarrow$$ cells $$\dots$$ to the cosmological horizon) and 13 connectors that bundle lower-tier units into the next rung.
 
 **Key findings.**
-The ladder compresses ~64 orders of magnitude into a two-resolution scaffold in which
+The ladder compresses ~63 orders of magnitude into a two-resolution scaffold in which
 (i) every connector aligns with a shift in transport regime or control parameter, and
 (ii) every major matches the scale where new governing theories appear.
 
@@ -36,7 +36,7 @@ Classic “powers-of-ten” narratives (Boeke’s *Cosmic View*; Eames’ *Power
 
 ### A Dyadic Alternative
 
-We propose a **binary hierarchy** anchored at the Planck length $$\ell_P = 1.616 \times 10^{-35},\text{m}.$$ Two empirical hints motivate this choice:
+We propose a **binary hierarchy** anchored at the Planck length $$\ell_P = 1.616 \times 10^{-35}\,\text{m}.$$ Two empirical hints motivate this choice:
 
 (a) **Information is dyadic.** Digital logic, Shannon entropy, and multiresolution analysis all rely on powers of two; natural systems optimising information flow plausibly adopt the same cadence (Lloyd, 2006; Gell-Mann, 1994).
 
@@ -46,19 +46,19 @@ Iterating that multiplier on $$\ell_P$$ defines a **major tick** every $$2^{16}$
 
 * **14 major ticks** (Planck scale to cosmic event horizon)
 * **13 connector ticks** (meso-scales that handle aggregation)
-* A total of **27 distinct rungs** spanning approximately 64 orders of magnitude in length.
+* A total of **27 distinct rungs** spanning approximately 63 orders of magnitude in length.
 
 ### Scope of This Report
 
 We develop and test this *double-resolution binary ladder* by:
 
 * Specifying the 14 majors and 13 connectors listed in Table 1.
-* Showing how well-known break-points—from the QCD confinement scale ($$10^{-16},\text{m}$$) through cellular life ($$10^{-6},\text{m}$$) to Local-Group dynamics ($$10^{23},\text{m}$$)—fall on or near those rungs.
+* Showing how well-known break-points—from the QCD confinement scale ($$10^{-16}\,\text{m}$$) through cellular life ($$10^{-6}\,\text{m}$$) to Local-Group dynamics ($$10^{23}\,\text{m}$$)—fall on or near those rungs.
 * Exploring implications for coarse-graining, multiscale simulation, sensor design, and science pedagogy.
 
 Choosing $$\ell_P$$ as the anchor commits to no specific quantum-gravity theory; it simply fixes the smallest meaningful length in current physics (Rovelli, 2004; Smolin, 2001). The resulting staircase walks smoothly from quantum foam to the cosmological event horizon.
 
-The paper proceeds as follows: Section 2 formalises the ladder construction, Section 3 aligns canonical systems with each rung, Section 4 catalogues empirical anchors and open targets at every tick, Section 5 connects the ladder to renormalisation, information theory, and entropy flow, and Section 6 summarises limitations and outlines future work.
+The paper proceeds as follows: Section 2 surveys related work, Section 3 formalises the ladder construction, Section 4 aligns canonical systems with each rung, Section 5 catalogues empirical anchors and open targets at every tick, Section 6 connects the ladder to renormalisation, information theory, and entropy flow, and Section 7 summarises limitations and outlines future work.
 
 ---
 
@@ -80,7 +80,7 @@ The binary ladder provides those intermediates deterministically. Each tick is n
 
 ### Cross-Domain Coarse-Graining and Renormalisation
 
-Renormalisation-group (RG) theory explains how coarse-graining alters effective laws within a single field theory (Wilson, 1974; Kadanoff, 1966). Block-spin decimation and Dyson’s hierarchical model employ finite dilations close to the ladder’s $$2^{16}$$ stride (Hierarchical Model, 1995). We extend that logic across domains: NRQCD matches to hadronic models near the nuclear shell (Connector 4.5), while molecular dynamics hands off to continuum fluid descriptions near the cell scale (Major 6).
+Renormalisation-group (RG) theory explains how coarse-graining alters effective laws within a single field theory (Wilson, 1974; Kadanoff, 1966). Block-spin decimation and Dyson’s hierarchical model employ finite dilations close to the ladder’s $$2^{16}$$ stride (Pordt, 1992). We extend that logic across domains: NRQCD matches to hadronic models near the nuclear shell (Connector 4.5), while molecular dynamics hands off to continuum fluid descriptions near the cell scale (Major 6).
 
 Multiscale solvers already exploit bespoke hand-offs (Karplus, 2002; Weinan, 2011); the ladder offers a universal timetable for when those hand-offs *should* occur.
 
@@ -435,10 +435,10 @@ Spatial resolutions finer than the connector typically give diminishing returns 
 #### Entropy Gradients
 
 Major ticks coincide with hand-overs between dominant entropy carriers:
-nuclear binding at $\sim10^{-16},\mathrm{m}$ (Major 4),
-chemical entropy at $10^{-11},\mathrm{m}$ (Major 5),
-biotic entropy at the $1,\mu\mathrm{m}$ cell (Major 6),
-radiative entropy across landscapes at $10^{4},\mathrm{m}$ (Major 8),
+nuclear binding at $\sim10^{-16}\,\mathrm{m}$ (Major 4),
+chemical entropy at $10^{-11}\,\mathrm{m}$ (Major 5),
+biotic entropy at the $1\,\mu\mathrm{m}$ cell (Major 6),
+radiative entropy across landscapes at $10^{4}\,\mathrm{m}$ (Major 8),
 and gravitational entropy from giant molecular clouds upward (Majors 11–13).
 
 #### Algorithmic Complexity
@@ -456,7 +456,7 @@ Whether supra-organism entities (smart cities, ecosystems) can exceed this $\Phi
 #### Cosmological Entropy Bound
 
 Beyond Major 12, the staircase nears the cosmological event horizon:
-Major 13 ($\sim10^{28},\mathrm{m}$) is a dark-energy-dominated shell whose Bekenstein–Hawking entropy sets the ultimate information limit for any observer.
+Major 13 ($\sim10^{28}\,\mathrm{m}$) is a dark-energy-dominated shell whose Bekenstein–Hawking entropy sets the ultimate information limit for any observer.
 Thus the binary ladder spans the full empirical range — from quantum foam (Major 0) to the edge of causal contact.
 
 ---
@@ -599,4 +599,3 @@ Available at: https://cds.cern.ch/record/265025
 
 27. Jansma, A., & Hoel, E. (2025). Engineering Emergence. *arXiv preprint* arXiv:2510.02649.
     URL: [https://arxiv.org/abs/2510.02649](https://arxiv.org/abs/2510.02649)
-
