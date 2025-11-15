@@ -14,5 +14,7 @@ The Binary Ladder offers new predictive hand-offs for simulations, a curriculum 
 If validated, the framework may provide the first unified explanation for why the Universe builds structure in such strikingly regular steps.
 
 ---
+
 [link to short article](article.md)
+
 [link to the full article](full_article.md)
