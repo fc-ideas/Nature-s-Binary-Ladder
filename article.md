@@ -5,10 +5,10 @@ Why do atoms, cells, organisms, planets, and galaxies all seem to appear at very
 
 Working at the intersection of machine learning, physics, and complexity science, the model argues that nature follows a simple digital rhythm: every **16 doublings** in linear size — a factor of **65,536** — the Universe switches to a new organising principle. Quantum effects give way to nuclear structure; atoms become chemistry; chemistry becomes biology; biology becomes ecosystems; ecosystems become planetary and astrophysical dynamics.
 
-A curious mathematical footnote reveals that this stride factor is not merely large — it is profoundly structured. The quantity \(2^{16}\) is itself a **four-level exponent tower**, since  
-\[
+A curious mathematical footnote reveals that this stride factor is not merely large — it is profoundly structured. The quantity `$2^{16}$` is itself a **four-level exponent tower**, since  
+$$
 2^{16} = 2^{\,2^{\,2^{\,2}}}.
-\]  
+$$  
 In other words, each major jump corresponds to a completed cascade of nested exponentiations. This tetrational rhythm mirrors how complexity accumulates across layers: systems exhaust their ability to express micro-variation only after a full exponent-tower cycle, at which point new macro-variables and new governing laws become not just convenient but *necessary*. The Universe seems to reorganise only after this deep informational threshold is crossed.
 
 The framework dubs this staircase **Nature’s Binary Ladder**, and the accompanying white paper maps **27 discrete rungs** from the Planck length all the way to the cosmological event horizon. It’s an audacious attempt to unify scales across physics and biology — a kind of *Powers of Ten* for the age of information theory.
@@ -34,7 +34,7 @@ Each multiplication defines a “major tick” — a scale where new laws seem t
 * **10²³ m** — the Local Group of galaxies  
 * **10²⁸ m** — the edge of the observable Universe
 
-Between each major tick is a **connector tick**, exactly \(2^8 = 256\) times larger than the major below it — scales where smaller units assemble into the composite “actors” of the next rung (nuclear shells between quarks and atoms, tissues between cells and organisms, cyclone cores between landscapes and planetary climate).
+Between each major tick is a **connector tick**, exactly `$2^8 = 256$` times larger than the major below it — scales where smaller units assemble into the composite “actors” of the next rung (nuclear shells between quarks and atoms, tissues between cells and organisms, cyclone cores between landscapes and planetary climate).
 
 Unlike the neat powers of ten in old textbooks, this ladder isn’t just a visual convenience. Our model treats it as a structural property of nature — the size at which the control parameters of a system flip regime.
 
@@ -59,7 +59,7 @@ In physics, renormalisation group (RG) flow explains why different theories appl
 
 Our model mimics RG — but applies it across *all* disciplines.
 
-**Major ticks** behave like huge RG steps: you compress \(2^{48}\) microscopic voxels into a single coarse-grained chunk.  
+**Major ticks** behave like huge RG steps: you compress `$2^{48}$` microscopic voxels into a single coarse-grained chunk.  
 **Connector ticks** are matching points where two neighbouring descriptions overlap and exchange information.
 
 But the twist is that the **cadence is fixed**, not inferred. No curve-fitting. No domain-specific fudge factors. The system is anchored at the Planck length and stepped up in binary.
@@ -90,7 +90,7 @@ Within our model, even **consciousness** becomes a scale-indexed phenomenon: if 
 The project does not claim the ladder is final. It’s a hypothesis — a compact unifying scaffold that can be challenged, extended, or falsified. But its implications are enormous:
 
 * **Multiscale simulation:** automatic hand-off points between MD, continuum models, climate solvers, and N-body simulations.  
-* **Instrumentation:** identifies unexplored observational bands — including a GUT window near \(10^{-30}\) m that next-generation colliders might target.  
+* **Instrumentation:** identifies unexplored observational bands — including a GUT window near `$10^{-30}$` m that next-generation colliders might target.  
 * **Curriculum design:** a principled replacement for arbitrary “micro/meso/macro” pedagogical divisions.  
 * **Machine learning:** a test of whether deep models spontaneously discover similar scale hierarchies.
 
