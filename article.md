@@ -84,10 +84,10 @@ Within our model, even **consciousness** becomes a scale-indexed phenomenon: if 
 
 ## Why This Matters Now
 
-The project does not claim the ladder is final. It’s a hypothesis — a compact unifying scaffold that can be challenged, extended, or falsified. But its implications are enormous:
+The project does not claim the ladder is final. It’s reliable as a narrative and conceptual scaffold — coherent, pedagogically powerful, and grounded in real physics and information theory — but it is not yet reliable as a predictive physical law. The current evidence is a set of hand-picked correspondences, not quantitative tests with clear falsifiability. We therefore present it expressly as a *proposed log-length coordinate system with a dyadic stride* that appears to organise many emergent transitions, and we invite others to stress-test or falsify it. Framed this way, the implications are enormous:
 
 * **Multiscale simulation:** automatic hand-off points between MD, continuum models, climate solvers, and N-body simulations.  
-* **Instrumentation:** identifies unexplored observational bands — including a GUT window near `$10^{-30}$` m that next-generation colliders might target.  
+* **Instrumentation:** identifies unexplored observational bands — including a GUT window near $10^{-30}$ m that next-generation colliders might target.  
 * **Curriculum design:** a principled replacement for arbitrary “micro/meso/macro” pedagogical divisions.  
 * **Machine learning:** a test of whether deep models spontaneously discover similar scale hierarchies.
 

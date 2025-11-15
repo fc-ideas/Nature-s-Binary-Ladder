@@ -488,6 +488,12 @@ This geometrically minimal, information-theoretically motivated scaffold:
 
 ---
 
+### Reliability and Claims
+
+As a **narrative and conceptual scaffold**, the binary ladder is reliable: it draws coherently on established physics and information theory, it clarifies multiscale pedagogy, and it offers a stimulating lens on emergence. As a **predictive physical law**, however, it is not yet reliable: the present evidence consists of curated correspondences rather than quantitative tests with clear falsifiability. We therefore present the construction explicitly as a *proposed log-length coordinate system with a dyadic stride* that appears to organise many known emergent transitions, and we invite others to probe, refine, or falsify it. Any stronger claim — for example, that the ladder already *explains* why the Universe builds structure only at these scales — would exceed the current evidentiary base.
+
+---
+
 ### Limitations
 
 The present framework indexes only *linear scale*; mass, time, and energy dimensions still need to be woven in.
